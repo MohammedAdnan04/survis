@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual"];
+var available_img = ["alarifi2023enhanced", "gedam2021review", "huda2020lowcost", "islam2023deep", "li2020bilstm", "prietoavalos2022wearable", "radha2021deep", "sabry2022machine", "shaik2023remote", "shajari2023emergence"];

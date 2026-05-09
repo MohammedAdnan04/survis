@@ -6,7 +6,7 @@
         "keywords": "fall detection, elderly, CNN, RNN, ensemble learning, wearable",
         "series": "Activity and Fall Detection",
         "title": "An Enhanced Ensemble Deep Neural Network Approach for Elderly Fall Detection System Based on Wearable Sensors",
-        "type": "article",
+        "type": "article Experiment",
         "year": "2023"
     },
     "gedam2021review": {
@@ -16,7 +16,7 @@
         "keywords": "stress detection, mental health, wearable sensors, machine learning, EDA",
         "series": "Mental Health and Sleep",
         "title": "A Review on Mental Stress Detection Using Wearable Sensors and Machine Learning Techniques",
-        "type": "article",
+        "type": "article Survey",
         "year": "2021"
     },
     "huda2020lowcost": {
@@ -26,7 +26,7 @@
         "keywords": "cardiac monitoring, ECG, arrhythmia detection, deep learning, cloud computing",
         "series": "Cardiac Monitoring",
         "title": "A Low-cost, Low-energy Wearable ECG System with Cloud-Based Arrhythmia Detection",
-        "type": "inproceedings",
+        "type": "inproceedings Experiment",
         "year": "2020"
     },
     "islam2023deep": {
@@ -36,7 +36,7 @@
         "keywords": "remote patient monitoring, IoT, deep learning, CNN, real-time health monitoring",
         "series": "Remote Patient Monitoring",
         "title": "Deep Learning-Based IoT System for Remote Monitoring and Early Detection of Health Issues in Real-Time",
-        "type": "article",
+        "type": "article Experiment",
         "year": "2023"
     },
     "li2020bilstm": {
@@ -46,7 +46,7 @@
         "keywords": "fall detection, activity recognition, Bi-LSTM, deep learning, wearable sensors",
         "series": "Activity and Fall Detection",
         "title": "Bi-LSTM Network for Multimodal Continuous Human Activity Recognition and Fall Detection",
-        "type": "article",
+        "type": "article Experiment",
         "year": "2020"
     },
     "prietoavalos2022wearable": {
@@ -56,7 +56,7 @@
         "keywords": "cardiac monitoring, wearable devices, ECG, PPG, heart rate",
         "series": "Cardiac Monitoring",
         "title": "Wearable Devices for Physical Monitoring of Heart: A Review",
-        "type": "article",
+        "type": "article Experiment",
         "year": "2022"
     },
     "radha2021deep": {
@@ -66,7 +66,7 @@
         "keywords": "sleep monitoring, transfer learning, PPG, deep learning, wearable",
         "series": "Mental Health and Sleep",
         "title": "A Deep Transfer Learning Approach for Wearable Sleep Stage Classification with Photoplethysmography",
-        "type": "article",
+        "type": "article Experiment",
         "year": "2021"
     },
     "sabry2022machine": {
@@ -76,7 +76,7 @@
         "keywords": "survey, wearable devices, machine learning, healthcare, deep learning",
         "series": "Survey and Overview",
         "title": "Machine Learning for Healthcare Wearable Devices: The Big Picture",
-        "type": "article",
+        "type": "article Survey",
         "year": "2022"
     },
     "shaik2023remote": {
@@ -86,7 +86,7 @@
         "keywords": "remote patient monitoring, artificial intelligence, IoT, chronic disease, healthcare",
         "series": "Remote Patient Monitoring",
         "title": "Remote Patient Monitoring Using Artificial Intelligence: Current State, Applications, and Challenges",
-        "type": "article",
+        "type": "article Survey",
         "year": "2023"
     },
     "shajari2023emergence": {
@@ -96,7 +96,7 @@
         "keywords": "survey, wearable sensors, artificial intelligence, digital health, biosensors",
         "series": "Survey and Overview",
         "title": "The Emergence of AI-Based Wearable Sensors for Digital Health Technology: A Review",
-        "type": "article",
+        "type": "article Survey",
         "year": "2023"
     }
 };
