@@ -73,7 +73,7 @@
         "author": "Sabry, F. and Eltaras, T. and Labda, W. and Alzoubi, K. and Malluhi, Q.",
         "doi": "10.1155/2022/4653923",
         "journal": "Journal of Healthcare Engineering",
-        "keywords": "survey, wearable devices, machine learning, healthcare, deep learning",
+        "keywords": "topic:survey,topic:wearable devices,topic:machine learning,topic:healthcare,topic:deep learning",
         "series": "Survey and Overview",
         "title": "Machine Learning for Healthcare Wearable Devices: The Big Picture",
         "type": "article Survey",
