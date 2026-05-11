@@ -1,6 +1,6 @@
 ﻿const generatedBibEntries = {
     "alarifi2023enhanced": {
-        "author": "Alarifi, A. and Tolba, A. and Al-Makhadmeh, Z. and Alomoush, W.",
+        "author": "Mohammad, Z. and Anwary, A. R. and Mridha, M. F. and Shovon, M. S. H. and Vassallo, M.",
         "doi": "10.3390/s23104774",
         "journal": "Sensors",
         "keywords": "type:Experiment,topic:fall detection,topic:elderly,topic:CNN,topic:RNN,topic:ensemble learning,topic:wearable",
